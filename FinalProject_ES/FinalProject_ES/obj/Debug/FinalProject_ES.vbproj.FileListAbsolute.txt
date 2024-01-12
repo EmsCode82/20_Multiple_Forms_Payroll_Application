@@ -1,0 +1,14 @@
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\bin\Debug\FinalProject_ES.exe.config
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\bin\Debug\FinalProject_ES.exe
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\bin\Debug\FinalProject_ES.pdb
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\bin\Debug\FinalProject_ES.xml
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.frmMain.resources
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.Resources.resources
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.exe
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.xml
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.pdb
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.frmHourly.resources
+C:\Users\e5sco\Desktop\Week 15\FinalProject_ES\FinalProject_ES\obj\Debug\FinalProject_ES.frmSalary.resources
